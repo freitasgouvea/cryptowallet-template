@@ -1,3 +1,3 @@
-# pdb-front-end-demo
+# cryptowallet template
 
 HTML template for cryptowallet
